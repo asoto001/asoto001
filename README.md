@@ -7,8 +7,8 @@
 </div>
 
 
-- 🔭 I’m currently working on Terruño colombiano app
-- 🌱 I’m currently learning redux
+
+- 🌱 I’m currently learning node js
 - 📫 How to reach me: soto.millan.ceni@gmail.com   +57 3123262791
 
 
