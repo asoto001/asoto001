@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning node js
+- 🌱 I’m currently learning SQL
 - 📫 How to reach me: soto.millan.ceni@gmail.com   +57 3123262791
 
 
