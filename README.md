@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning SQL
+
 - 📫 How to reach me: soto.millan.ceni@gmail.com   +57 3123262791
 
 
@@ -23,6 +23,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  width='40' height='40'/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  width='40' height='40'/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"  width='40' height='40'/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  width='40' height='40'/>&nbsp;
     </div>
 </div>
 
